@@ -17,5 +17,5 @@ This project uses [Rapaio](https://github.com/padreati/rapaio-jupyter-kernel) as
 
 Ce projet a été réalisé par :
 * Anaïs H.
-* Francois M.
+* François M.
 * Raphaël Q.
